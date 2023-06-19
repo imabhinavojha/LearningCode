@@ -1,12 +1,12 @@
-package LeetCode_ProgrammingSkills;
+package LeetCode;
 
 import java.util.Arrays;
 
-public class Day1_AverageSalaryExcludingtheMinimumandMaximumSalary {
+public class AverageSalaryExcludingtheMinimumandMaximumSalary {
 
 	public static void main(String[] args) {
 		int[] sal = { 4000,3000,1000,2000 };
-		Day1_AverageSalaryExcludingtheMinimumandMaximumSalary as = new Day1_AverageSalaryExcludingtheMinimumandMaximumSalary();
+		AverageSalaryExcludingtheMinimumandMaximumSalary as = new AverageSalaryExcludingtheMinimumandMaximumSalary();
 		System.out.println(as.average1(sal));
 
 	}
