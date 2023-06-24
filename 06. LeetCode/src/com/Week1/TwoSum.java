@@ -1,7 +1,5 @@
 package com.Week1;
 
-import com.Part1.twoSum;
-
 //Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 //You may assume that each input would have exactly one solution, and you may not use the same element twice.
 //You can return the answer in any order.
@@ -19,10 +17,10 @@ import com.Part1.twoSum;
 //Input: nums = [3,3], target = 6
 //Output: [0,1]
 
-public class Two_Sum {
+public class TwoSum {
 
 	public static void main(String[] args) {
-		twoSum ts = new twoSum();
+		TwoSum ts = new TwoSum();
 		int[] arr = { 2, 5, 5, 11 };
 		int target = 10;
 		int[] arr1 = ts.twoSum(arr, target);

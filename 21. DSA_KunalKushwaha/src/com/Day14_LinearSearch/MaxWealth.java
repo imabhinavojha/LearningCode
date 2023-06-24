@@ -1,4 +1,4 @@
-package com.LinearSearch;
+package com.Day14_LinearSearch;
 
 //https://leetcode.com/problems/richest-customer-wealth/
 public class MaxWealth {
