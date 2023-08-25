@@ -9,6 +9,7 @@ public class Day3_Numberof1Bits {
 
 	}
 
+	
 	public int hammingWeight(int n) {
 
 		int ones = 0;

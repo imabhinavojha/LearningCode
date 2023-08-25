@@ -9,12 +9,12 @@ public class Factorial {
 
 	static int factorial1(int number) {
 		int fact = 1;
+		System.out.println("dsbnfgjhfsbdg");
 		for (int i = 1; i <= number; i++) {
 			fact = fact * i;
 		}
 		return fact;
 	}
-
 	static int factorial(int n) {
 		if (n == 0)
 			return 1;
