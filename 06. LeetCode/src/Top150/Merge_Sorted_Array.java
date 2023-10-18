@@ -32,6 +32,9 @@ public class Merge_Sorted_Array {
             j--;
             k--;
         }
-
+        for (int l : nums1) {
+            System.out.print(" "+l+" ");
+            
+        }
     }
 }
