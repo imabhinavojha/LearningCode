@@ -1,4 +1,5 @@
 package com.Day10_Beginner_Functions_Methods;
+
 /* 
 Problem Description
 Given 2 non-negative integers A and B, find gcd(A, B)
@@ -55,7 +56,21 @@ Explanation 2:
   */
 public class Greatest_Common_Divisor {
     public static void main(String[] args) {
-        
+        int x = 8, y = 12;
+        Greatest_Common_Divisor obj = new Greatest_Common_Divisor();
+        obj.gcd(x, y);
     }
-    
+
+    public int gcd(int A, int B) {
+        int gcd = 1;
+        int smallest = (A < B) ? A : B;
+
+        for (int i = 1; i <= smallest; i++) {
+            if (A % i == 0 && B % i == 0) {
+                gcd = i;
+            }
+        }
+        System.out.println(gcd);
+        return gcd;
+    }
 }

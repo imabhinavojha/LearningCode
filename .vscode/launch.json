@@ -6,6 +6,125 @@
     "configurations": [
         {
             "type": "java",
+            "name": "worstYear",
+            "request": "launch",
+            "mainClass": "worstYear",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "twoSum",
+            "request": "launch",
+            "mainClass": "Blind75.twoSum",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "twoSum",
+            "request": "launch",
+            "mainClass": "com.Part1.twoSum",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "personal",
+            "request": "launch",
+            "mainClass": "Top150.personal",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "Best_Time_to_Buy_and_Sell_Stock",
+            "request": "launch",
+            "mainClass": "Top150.Best_Time_to_Buy_and_Sell_Stock",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "swapTwo",
+            "request": "launch",
+            "mainClass": "Other.swapTwo",
+            "projectName": "05. Interviewbit"
+        },
+        {
+            "type": "java",
+            "name": "reverseString",
+            "request": "launch",
+            "mainClass": "LeetCode.reverseString",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "deserlization",
+            "request": "launch",
+            "mainClass": "Other.deserlization",
+            "projectName": "05. Interviewbit"
+        },
+        {
+            "type": "java",
+            "name": "serlization",
+            "request": "launch",
+            "mainClass": "Other.serlization",
+            "projectName": "05. Interviewbit"
+        },
+        {
+            "type": "java",
+            "name": "MininumPack",
+            "request": "launch",
+            "mainClass": "com.Test.MininumPack",
+            "projectName": "11. Scaler_Begineer"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciNumber",
+            "request": "launch",
+            "mainClass": "com.Day11.FibonacciNumber",
+            "projectName": "11. Scaler_Begineer"
+        },
+        {
+            "type": "java",
+            "name": "FindFactorial",
+            "request": "launch",
+            "mainClass": "com.Day11.FindFactorial",
+            "projectName": "11. Scaler_Begineer"
+        },
+        {
+            "type": "java",
+            "name": "Volume_Of_Sphere",
+            "request": "launch",
+            "mainClass": "com.Day10_Beginner_Functions_Methods.Volume_Of_Sphere",
+            "projectName": "11. Scaler_Begineer"
+        },
+        {
+            "type": "java",
+            "name": "Area_of_circle",
+            "request": "launch",
+            "mainClass": "com.Day10_Beginner_Functions_Methods.Area_of_circle",
+            "projectName": "11. Scaler_Begineer"
+        },
+        {
+            "type": "java",
+            "name": "test123_1",
+            "request": "launch",
+            "mainClass": "com.Day10_Beginner_Functions_Methods.test123_1",
+            "projectName": "11. Scaler_Begineer"
+        },
+        {
+            "type": "java",
+            "name": "test123",
+            "request": "launch",
+            "mainClass": "com.Day10_Beginner_Functions_Methods.test123",
+            "projectName": "11. Scaler_Begineer"
+        },
+        {
+            "type": "java",
+            "name": "Greatest_Common_Divisor",
+            "request": "launch",
+            "mainClass": "com.Day10_Beginner_Functions_Methods.Greatest_Common_Divisor",
+            "projectName": "11. Scaler_Begineer"
+        },
+        {
+            "type": "java",
             "name": "Sum_of_evens",
             "request": "launch",
             "mainClass": "com.Day8_Beginner_Programming_Fundamentals_1.Sum_of_evens",
