@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayListCLass",
+            "request": "launch",
+            "mainClass": "com.Day17.ArrayListCLass",
+            "projectName": "11. Scaler_Begineer"
+        },
+        {
+            "type": "java",
             "name": "worstYear",
             "request": "launch",
             "mainClass": "worstYear",
