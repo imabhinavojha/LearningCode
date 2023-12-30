@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Recussion.Fibonacci",
+            "projectName": "21. DSA_KunalKushwaha"
+        },
+        {
+            "type": "java",
+            "name": "BasicRecursion",
+            "request": "launch",
+            "mainClass": "com.Day18_Sorting_Recursion_Basics.BasicRecursion",
+            "projectName": "11. Scaler_Begineer"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "com.Day18_Sorting_Recursion_Basics.hello",
+            "projectName": "11. Scaler_Begineer"
+        },
+        {
+            "type": "java",
             "name": "KthSmallestElement",
             "request": "launch",
             "mainClass": "com.Day17_Beginner_Sorting_Searching_Problems.KthSmallestElement",
