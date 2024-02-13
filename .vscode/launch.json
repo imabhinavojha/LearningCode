@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "containerWithMostWater",
+            "request": "launch",
+            "mainClass": "Blind75Array.containerWithMostWater",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "triplet3sum",
+            "request": "launch",
+            "mainClass": "Blind75Array.triplet3sum",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "searchInSortedArray",
+            "request": "launch",
+            "mainClass": "Blind75Array.searchInSortedArray",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "findMinimumRotatedSortedArray",
+            "request": "launch",
+            "mainClass": "Blind75Array.findMinimumRotatedSortedArray",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "maximumSubarray",
+            "request": "launch",
+            "mainClass": "Blind75Array.maximumSubarray",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "maximumProductSubarray",
+            "request": "launch",
+            "mainClass": "Blind75Array.maximumProductSubarray",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "nestedArray",
+            "request": "launch",
+            "mainClass": "com.Part1.nestedArray",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "productOfArrayExpectSelf",
+            "request": "launch",
+            "mainClass": "Blind75Array.productOfArrayExpectSelf",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "containsDuplicate",
+            "request": "launch",
+            "mainClass": "Blind75.containsDuplicate",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "bestTimeTobuyStock",
+            "request": "launch",
+            "mainClass": "Blind75.bestTimeTobuyStock",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "Defuse_the_Bomb",
+            "request": "launch",
+            "mainClass": "SlidingWindow.Defuse_the_Bomb",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "test1",
+            "request": "launch",
+            "mainClass": "Other.test1",
+            "projectName": "05. Interviewbit"
+        },
+        {
+            "type": "java",
             "name": "Fibonacci",
             "request": "launch",
             "mainClass": "Recussion.Fibonacci",
