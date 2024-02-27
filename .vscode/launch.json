@@ -6,6 +6,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "kidsWithGretestNumber",
+            "request": "launch",
+            "mainClass": "InterviewQuestion75.kidsWithGretestNumber",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "removeStars",
+            "request": "launch",
+            "mainClass": "InterviewQuestion75.removeStars",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "uniqueOccurrences",
+            "request": "launch",
+            "mainClass": "InterviewQuestion75.uniqueOccurrences",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "FindDifferenceOfArrays",
+            "request": "launch",
+            "mainClass": "LeetCode.FindDifferenceOfArrays",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "gcdString",
+            "request": "launch",
+            "mainClass": "Blind75String.gcdString",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "com.Part1.test",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "mergeString",
+            "request": "launch",
+            "mainClass": "InterviewQuestion75.mergeString",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "plusOne",
+            "request": "launch",
+            "mainClass": "LeetCode.plusOne",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "truncateSentence",
+            "request": "launch",
+            "mainClass": "LeetCode.truncateSentence",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "defanginganIPAddress",
+            "request": "launch",
+            "mainClass": "LeetCode.defanginganIPAddress",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "longestRepatingCharcterReplacement",
+            "request": "launch",
+            "mainClass": "Blind75String.longestRepatingCharcterReplacement",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "longestSubString",
+            "request": "launch",
+            "mainClass": "Blind75String.longestSubString",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "Blind75Binary.sum",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
             "name": "containerWithMostWater",
             "request": "launch",
             "mainClass": "Blind75Array.containerWithMostWater",
