@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Question1",
+            "request": "launch",
+            "mainClass": "com.Java_11_Basic.Question1",
+            "projectName": "21. DSA_KunalKushwaha"
+        },
+        {
+            "type": "java",
             "name": "test12124",
             "request": "launch",
             "mainClass": "com.Java_14_BinarySearch.test12124",
