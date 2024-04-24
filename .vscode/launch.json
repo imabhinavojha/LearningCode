@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "test12124",
+            "request": "launch",
+            "mainClass": "com.Java_14_BinarySearch.test12124",
+            "projectName": "21. DSA_KunalKushwaha"
+        },
+        {
+            "type": "java",
+            "name": "binarySearch",
+            "request": "launch",
+            "mainClass": "com.Java_14_BinarySearch.binarySearch",
+            "projectName": "21. DSA_KunalKushwaha"
+        },
+        {
+            "type": "java",
             "name": "test123",
             "request": "launch",
             "mainClass": "com.Java_14_BinarySearch.test123",
