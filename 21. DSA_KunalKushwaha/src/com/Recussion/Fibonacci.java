@@ -1,5 +1,4 @@
-package Recussion;
-
+package com.Recussion;
 public class Fibonacci {
     public static void main(String[] args) {
         int fib = fibonacci(4);
