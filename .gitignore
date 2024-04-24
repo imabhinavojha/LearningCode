@@ -1,2 +1,3 @@
 /.metadata/
-"11. Scaler_Begineer"/bin/com
+# Ignore .class files
+*.class

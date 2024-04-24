@@ -11,6 +11,7 @@ public class bestTimeTobuyStock {
 
     public int bestTimeTobuyStock1(int[] num) {
         int minPrice = Integer.MAX_VALUE;
+        System.out.println("Min Price "+minPrice);
         int maxPrice = 0;
 
         for (int i = 0; i < num.length; i++) {

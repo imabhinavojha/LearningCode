@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "test123",
+            "request": "launch",
+            "mainClass": "com.Java_14_BinarySearch.test123",
+            "projectName": "21. DSA_KunalKushwaha"
+        },
+        {
+            "type": "java",
+            "name": "bestTimeTobuyStock",
+            "request": "launch",
+            "mainClass": "Blind75Array.bestTimeTobuyStock",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "overriding",
+            "request": "launch",
+            "mainClass": "Other.overriding",
+            "projectName": "05. Interviewbit"
+        },
+        {
+            "type": "java",
+            "name": "overloading",
+            "request": "launch",
+            "mainClass": "Other.overloading",
+            "projectName": "05. Interviewbit"
+        },
+        {
+            "type": "java",
+            "name": "test123",
+            "request": "launch",
+            "mainClass": "com.Part1.test123",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "da",
+            "request": "launch",
+            "mainClass": "com.da",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "medianOfTwoSortedArray",
+            "request": "launch",
+            "mainClass": "Array.medianOfTwoSortedArray",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "oddEvenListNode",
+            "request": "launch",
+            "mainClass": "InterviewQuestion75.oddEvenListNode",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "coutCharinArray",
+            "request": "launch",
+            "mainClass": "InterviewQuestion75.coutCharinArray",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "reverString",
+            "request": "launch",
+            "mainClass": "InterviewQuestion75.reverString",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "canPlaceFlower",
+            "request": "launch",
+            "mainClass": "InterviewQuestion75.canPlaceFlower",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
             "name": "kidsWithGretestNumber",
             "request": "launch",
             "mainClass": "InterviewQuestion75.kidsWithGretestNumber",
