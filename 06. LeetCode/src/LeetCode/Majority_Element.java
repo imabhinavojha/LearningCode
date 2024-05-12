@@ -1,4 +1,4 @@
-package Top150;
+package LeetCode;
 
 public class Majority_Element {
     public static void main(String[] args) {

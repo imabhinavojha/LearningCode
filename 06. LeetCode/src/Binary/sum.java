@@ -1,4 +1,4 @@
-package Blind75Binary;
+package Binary;
 
 public class sum {
     public static void main(String[] args) {

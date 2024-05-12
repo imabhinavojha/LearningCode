@@ -1,4 +1,4 @@
-package Blind75String;
+package String;
 
 public class longestRepatingCharcterReplacement {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package LeetCode_ProgrammingSkills;
+package LeetCode;
 
 public class Day1_CountOddNumbersinanIntervalRange {
 

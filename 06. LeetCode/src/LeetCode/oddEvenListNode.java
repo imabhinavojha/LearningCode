@@ -1,4 +1,4 @@
-package InterviewQuestion75;
+package LeetCode;
 
 class ListNode {
     int val;

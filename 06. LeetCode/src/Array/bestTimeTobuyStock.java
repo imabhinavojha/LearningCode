@@ -1,4 +1,4 @@
-package Blind75Array;
+package Array;
 
 public class bestTimeTobuyStock {
     public static void main(String[] args) {

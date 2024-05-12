@@ -1,4 +1,4 @@
-package InterviewQuestion75;
+package LeetCode;
 
 public class reverString {
     public static void main(String[] args) {

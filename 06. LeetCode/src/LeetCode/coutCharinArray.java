@@ -1,4 +1,4 @@
-package InterviewQuestion75;
+package LeetCode;
 
 public class coutCharinArray {
     public static void main(String[] args) {

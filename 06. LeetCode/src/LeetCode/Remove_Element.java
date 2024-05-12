@@ -1,4 +1,4 @@
-package Top150;
+package LeetCode;
 
 import java.util.ArrayList;
 

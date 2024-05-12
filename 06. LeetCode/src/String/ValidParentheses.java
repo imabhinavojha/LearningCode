@@ -1,4 +1,4 @@
-package Blind75String;
+package String;
 
 import java.util.Stack;
 

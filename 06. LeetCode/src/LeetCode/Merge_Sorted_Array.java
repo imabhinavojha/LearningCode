@@ -1,4 +1,4 @@
-package Top150;
+package LeetCode;
 
 public class Merge_Sorted_Array {
     public static void main(String[] args) {

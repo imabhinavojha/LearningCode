@@ -1,4 +1,4 @@
-package InterviewQuestion75;
+package LeetCode;
 
 public class reverselist {
     public static void main(String[] args) {

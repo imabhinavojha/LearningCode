@@ -1,4 +1,4 @@
-package Top150;
+package LeetCode;
 
 public class Rotate_Array {
     public static void main(String[] args) {

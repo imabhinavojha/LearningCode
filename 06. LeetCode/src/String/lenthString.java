@@ -1,4 +1,4 @@
-package Blind75String;
+package String;
 
 public class lenthString {
     public static void main(String[] args) {

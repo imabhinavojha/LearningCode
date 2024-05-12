@@ -1,6 +1,4 @@
-package LeetCode_ProgrammingSkills;
-
-import java.util.Arrays;
+package LeetCode;
 
 public class Day1_AverageSalaryExcludingtheMinimumandMaximumSalary {
 

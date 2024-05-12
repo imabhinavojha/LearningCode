@@ -1,4 +1,4 @@
-package InterviewQuestion75;
+package String;
 
 public class mergeString {
     

@@ -1,4 +1,4 @@
-package SlidingWindow;
+package Array;
 
 public class Defuse_the_Bomb {
     public static void main(String[] args) {

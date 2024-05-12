@@ -1,4 +1,4 @@
-package Grind;
+package Array;
 
 public class InsertInterval {
 
