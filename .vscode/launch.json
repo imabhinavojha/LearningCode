@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "romanToInteger",
+            "request": "launch",
+            "mainClass": "Top150.romanToInteger",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
+            "name": "Merge_Sorted_Array",
+            "request": "launch",
+            "mainClass": "Top150.Merge_Sorted_Array",
+            "projectName": "06. LeetCode"
+        },
+        {
+            "type": "java",
             "name": "Question1",
             "request": "launch",
             "mainClass": "com.Java_11_Basic.Question1",

@@ -7,7 +7,7 @@ import java.util.List;
 public class triplet3sum {
     public static void main(String[] args) {
         triplet3sum obj = new triplet3sum();
-        int nums[] = {-1,0,1,2,-1,-4};
+        int nums[] = { -1, 0, 1, 2, -1, -4 };
         obj.threeSum(nums);
 
     }
@@ -17,7 +17,6 @@ public class triplet3sum {
 
         // Sort the array
         Arrays.sort(nums);
-        
 
         for (int i = 0; i < nums.length - 2; i++) {
             // Skip duplicate elements for i
@@ -58,7 +57,7 @@ public class triplet3sum {
             }
         }
         return ans;
-    
+
     }
-    
+
 }
