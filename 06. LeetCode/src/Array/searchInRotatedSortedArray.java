@@ -3,8 +3,7 @@ package Array;
 public class searchInRotatedSortedArray {
     public static void main(String[] args) {
         searchInRotatedSortedArray obj = new searchInRotatedSortedArray();
-        int[] arr = { 4, 5, 6, 7, 
-            , 1, 2 };
+        int[] arr = { 4, 5, 6, 7, 0, 1, 2 };
         int target = 0;
         System.out.println(obj.search(arr, target));
     }

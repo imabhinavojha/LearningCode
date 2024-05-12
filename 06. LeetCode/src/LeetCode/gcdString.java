@@ -1,7 +1,6 @@
 package LeetCode;
 
-
-
+public class gcdString {
     public static void main(String[] args) {
         String str1 = "abcabc";
         String str2 = "abc";
